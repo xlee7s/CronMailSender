@@ -102,6 +102,9 @@
 ### 1️⃣ 安装插件
 将插件放入Xboard插件目录：`plugins`
 
+```
+git clone https://github.com/xlee7s/CronMailSender.git
+```
 
 然后进入后台执行插件安装或刷新插件列表。
 
